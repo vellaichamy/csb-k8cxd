@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-js-learning"]=this["webpackJsonpreact-js-learning"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var c=n(1),r=n(3),s=n.n(r),i=(n(8),n(0));function a(){return Object(i.jsxs)("div",{className:"App",children:[Object(i.jsx)("h1",{children:"Hello CodeSandbox"}),Object(i.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}var o=document.getElementById("root");s.a.render(Object(i.jsx)(c.StrictMode,{children:Object(i.jsx)(a,{})}),o)},8:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.ba1a6f95.chunk.js.map
